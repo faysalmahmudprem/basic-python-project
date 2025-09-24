@@ -20,11 +20,13 @@ The project is designed to practice:
 
    
 ## Navigate to the project folder:
+```bash
 cd basic-python-project/quiz-game
-
+```
 ## Run the game:
+```bash
 python3 quiz_game.py
-
+```
 ## Example Gameplay
 ```bash
 ---------------------------
