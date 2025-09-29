@@ -46,6 +46,17 @@ A classic Rock-Paper-Scissors game that:
 
 👉 [Read More](./rock-paper-scissors/README.md)  
 
+
+---
+
+### 5. [Dice Roller 🎲](./dice-roller)  
+A Python dice roller that:  
+- Lets the user roll multiple dice  
+- Displays dice faces using ASCII art  
+- Calculates the total score  
+
+👉 [Read More](./dice-roller/README.md)  
+
 ---
 
 ## 🚀 Goal  
