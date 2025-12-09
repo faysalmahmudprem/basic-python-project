@@ -59,6 +59,36 @@ A Python dice roller that:
 
 ---
 
+### 5. [Slot Machine 🎰](./slot-machine)  
+A fun slot machine game that:  
+- Spins symbols  
+- Calculates payouts  
+- Tracks balance  
+
+👉 [Read More](./slot-machine/README.md)
+
+---
+
+### 6. [encryption-message 🔐](./encryption-message)  
+A simple encryption/decryption program that:  
+- Creates a randomized substitution key  
+- Encrypts messages  
+- Decrypts using the same key  
+
+👉 [Read More](./encryption-message/README.md)
+
+---
+
+### 7. [Alarm Clock ⏰](./alarm-clock)  
+A Python alarm program that:  
+- Lets you set an alarm time  
+- Continuously checks system time  
+- Plays sound using pygame  
+
+👉 [Read More](./alarm-clock/README.md)
+
+---
+
 ## 🚀 Goal  
 I’m practicing these projects to:  
 - Sharpen my programming logic  
