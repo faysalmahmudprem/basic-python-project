@@ -73,12 +73,7 @@ api_key = "YOUR_API_KEY_HERE"
 ```
 
 ## 🖥️ UI Preview
-Enter city name
-[ Dhaka ]
-[ Get Weather ]
-72℉
-☀️
-clear sky
+<img width="420" height="653" alt="faysal mahmud prem 1" src="https://github.com/user-attachments/assets/46e61d6b-0d9b-48ea-a8c4-80c686c202ec" />
 
 ## 🔮 Future Improvements
 - Add Celsius / Fahrenheit toggle
